@@ -122,9 +122,9 @@ Benefícios:
 
 ## 🔍 3. Diagrama de um Sistema AWS usando EC2
 
-[![Diagrama AWS](./images/arquitetura.png)](./docs/arquitetura.drawio)
+[![Diagrama AWS](./images/arquitetura.png)]
 
-> Clique na imagem para abrir o diagrama editável no draw.io
+> Além da imagem, possui um arquivo editavél que pode ser usado no site draw.io
 
 ## 📌 Conclusão
 
