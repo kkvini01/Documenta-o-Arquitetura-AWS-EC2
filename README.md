@@ -122,7 +122,9 @@ Benefícios:
 
 ## 🔍 3. Diagrama de um Sistema AWS usando EC2
 
-<img width="716" height="323" alt="image" src="https://github.com/user-attachments/assets/b1e0824b-4a8c-460a-8a12-aee4d5f148ac" />
+[![Diagrama AWS](./images/arquitetura.png)](./docs/arquitetura.drawio)
+
+> Clique na imagem para abrir o diagrama editável no draw.io
 
 ## 📌 Conclusão
 
