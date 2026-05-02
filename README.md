@@ -126,6 +126,12 @@ Benefícios:
 
 > Além da imagem, possui um arquivo editavél que pode ser usado no site draw.io
 
+## ❗ Problema
+
+Como garantir backup, replicação e rápida recuperação de uma instância EC2 em caso de falha?
+
+R: Utilizar AMIs para replicação de instâncias e Snapshots EBS para backup de dados persistentes.
+
 ## 📌 Conclusão
 
 * **AMI** = imagem completa da instância
