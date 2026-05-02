@@ -1,7 +1,7 @@
 # Documenta-o-Arquitetura-AWS-EC2
-Nesta documentação apresentarei a construção de uma arquitetura básica na AWS utilizando o serviço EC2, com foco na criação e gerenciamento de AMIs e snapshots EBS.
-
 Meu nome é Vinícius Henrique Nunes, curso Sistemas de informação no meu terceiro semestre, entusiasta em Cibersegurança e estou me aprofundando em sistemas AWS.
+
+Nesta documentação apresentarei a construção de uma arquitetura básica na AWS utilizando o serviço EC2, com foco na criação e gerenciamento de AMIs e snapshots EBS.
 
 # 📦 AWS EC2 – AMI, Snapshots EBS e Desafio de Instâncias
 
