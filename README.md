@@ -122,15 +122,26 @@ Benefícios:
 
 ## 🔍 3. Diagrama de um Sistema AWS usando EC2
 
-[![Diagrama AWS](./images/arquitetura.png)]
+[![Diagrama AWS](./images/arquitetura.png)](https://app.diagrams.net/?url=https://raw.githubusercontent.com/kkvini01/Documenta-o-Arquitetura-AWS-EC2/main/docs/arquitetura.drawio)
 
-> Além da imagem, possui um arquivo editavél que pode ser usado no site draw.io
+> 💡 Clique na imagem para abrir o diagrama editável no draw.io
 
 ## ❗ Problema
 
 Como garantir backup, replicação e rápida recuperação de uma instância EC2 em caso de falha?
 
 R: Utilizar AMIs para replicação de instâncias e Snapshots EBS para backup de dados persistentes.
+
+## 🔐 Considerações de Segurança
+
+Com meu estudo de cibersegurança, percebi algumas implementações de algumas boas práticas de segurança que possam ser consideradas:
+
+- Uso de pares de chaves para acesso seguro via SSH
+- Restrição de acesso através de Security Groups
+- Abertura apenas das portas necessárias (ex: 22 para SSH)
+- Aplicação do princípio do menor privilégio (IAM)
+
+Essas práticas ajudam a reduzir a superfície de ataque e aumentam a segurança do ambiente.
 
 ## 📌 Conclusão
 
