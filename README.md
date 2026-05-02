@@ -1,4 +1,4 @@
-# Documenta-o-Arquitetura-AWS-EC2
+# Documentação-de-Arquitetura-AWS-EC2
 Meu nome é Vinícius Henrique Nunes, curso Sistemas de informação no meu terceiro semestre, entusiasta em Cibersegurança e estou me aprofundando em sistemas AWS.
 
 Nesta documentação apresentarei a construção de uma arquitetura básica na AWS utilizando o serviço EC2, com foco na criação e gerenciamento de AMIs e snapshots EBS.
